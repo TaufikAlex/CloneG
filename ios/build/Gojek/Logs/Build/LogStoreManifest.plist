@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>42E4F2F2-C5B2-43C0-BEB0-08F33C676014</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>42E4F2F2-C5B2-43C0-BEB0-08F33C676014.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gojek project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gojek</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Gojek with scheme Gojek and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>598240924.63672495</real>
+			<key>timeStoppedRecording</key>
+			<real>598240926.29843199</real>
+			<key>title</key>
+			<string>Building workspace Gojek with scheme Gojek and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>42E4F2F2-C5B2-43C0-BEB0-08F33C676014</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

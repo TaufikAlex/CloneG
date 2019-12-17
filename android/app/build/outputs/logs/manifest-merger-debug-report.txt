@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5dd893b0ea9dde2072aac8510d8cc07c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/c409ef9951d15883471bfccc6a9c3ab2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0b746cf20d2e114cbd32c92e3259313c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/880814d518a9c4e94eadf84d33409136/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/6fc3cf5aa2980826dac6bf7594947fb3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/d50e62a56ad19c22ec07186acff83673/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/60f5dfd2649e47ee411a23b47f364544/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/74470064bbeef0792ca115f4b2558453/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/ca23d079659d0fd8cbe49fe74bfeda4a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/70c162a3205eb3dfbd3d87b5db1b2d9a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/acf58934de9cf502580dd7268d1e43f3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/699957286b33b9da8fb0ff8d20fbf3a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/b0b20ce2bc234fc0a360b777dca7e85a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/af3ac1d8e9ba5dd1c2e49d1f77c829e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/f9f59e3c9fc647a0be6440ba92cbee3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/561c6ecf58f6dbdbc26e707c89056161/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/225bd1244dc522638194d2a6e0693a6c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/6196b48408895ff23a29bb9fa7d44e13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/ab7cd0bb30467f6c1794a22ff1213ad3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/b536d3b4c3b9d05cedbd767ab31e60a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/4104b19196d88826394f0377001e1325/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0d785b03a8a73ad8cac8240a10df75e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/02fc9d3c8f0e600cd94ff782358a109a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/eddb885833ed9fd24598f2a7b8064933/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5ff1d4b82925835fa3fddeebd35de865/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5a1317dbb410031fe3bbf73d5d0556f1/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/f9c7e45a6a6ff07779f4e229f14af634/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/a81a0ba9e12d32a6f2774e73252f193f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/b90f4ce8d4ab8afe0bb10e7978a21308/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0073c58d0c880fa185169b92f94bd5f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/bc0d96797a63d0d418c7c85465b69997/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/2348dd91d089938989b4af56d6ab5ad4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/797fd6aafab6dab0d70b90b873379400/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/36de0ff29edbc73dc6da5e9c7c46b2ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0b2d4a6c76f226d8b04254bb550f1792/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/a939f132f159bd89876169f3f7c93df7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/6b19ce0cc96dd17fa27a7f61d4ddc830/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5dd893b0ea9dde2072aac8510d8cc07c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5dd893b0ea9dde2072aac8510d8cc07c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/acf58934de9cf502580dd7268d1e43f3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/acf58934de9cf502580dd7268d1e43f3/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5ff1d4b82925835fa3fddeebd35de865/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5ff1d4b82925835fa3fddeebd35de865/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5a1317dbb410031fe3bbf73d5d0556f1/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5a1317dbb410031fe3bbf73d5d0556f1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5ff1d4b82925835fa3fddeebd35de865/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.gojek.MainActivity
+ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5dd893b0ea9dde2072aac8510d8cc07c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5dd893b0ea9dde2072aac8510d8cc07c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/c409ef9951d15883471bfccc6a9c3ab2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/c409ef9951d15883471bfccc6a9c3ab2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0b746cf20d2e114cbd32c92e3259313c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0b746cf20d2e114cbd32c92e3259313c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/880814d518a9c4e94eadf84d33409136/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/880814d518a9c4e94eadf84d33409136/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/6fc3cf5aa2980826dac6bf7594947fb3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/6fc3cf5aa2980826dac6bf7594947fb3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/d50e62a56ad19c22ec07186acff83673/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/d50e62a56ad19c22ec07186acff83673/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/60f5dfd2649e47ee411a23b47f364544/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/60f5dfd2649e47ee411a23b47f364544/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/74470064bbeef0792ca115f4b2558453/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/74470064bbeef0792ca115f4b2558453/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/ca23d079659d0fd8cbe49fe74bfeda4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/ca23d079659d0fd8cbe49fe74bfeda4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/70c162a3205eb3dfbd3d87b5db1b2d9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/70c162a3205eb3dfbd3d87b5db1b2d9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/acf58934de9cf502580dd7268d1e43f3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/acf58934de9cf502580dd7268d1e43f3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/699957286b33b9da8fb0ff8d20fbf3a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/699957286b33b9da8fb0ff8d20fbf3a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/b0b20ce2bc234fc0a360b777dca7e85a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/b0b20ce2bc234fc0a360b777dca7e85a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/af3ac1d8e9ba5dd1c2e49d1f77c829e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/af3ac1d8e9ba5dd1c2e49d1f77c829e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/f9f59e3c9fc647a0be6440ba92cbee3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/f9f59e3c9fc647a0be6440ba92cbee3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/561c6ecf58f6dbdbc26e707c89056161/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/561c6ecf58f6dbdbc26e707c89056161/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/225bd1244dc522638194d2a6e0693a6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/225bd1244dc522638194d2a6e0693a6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/6196b48408895ff23a29bb9fa7d44e13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/6196b48408895ff23a29bb9fa7d44e13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/ab7cd0bb30467f6c1794a22ff1213ad3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/ab7cd0bb30467f6c1794a22ff1213ad3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/b536d3b4c3b9d05cedbd767ab31e60a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/b536d3b4c3b9d05cedbd767ab31e60a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/4104b19196d88826394f0377001e1325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/4104b19196d88826394f0377001e1325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0d785b03a8a73ad8cac8240a10df75e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0d785b03a8a73ad8cac8240a10df75e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/02fc9d3c8f0e600cd94ff782358a109a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/02fc9d3c8f0e600cd94ff782358a109a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/eddb885833ed9fd24598f2a7b8064933/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/eddb885833ed9fd24598f2a7b8064933/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5ff1d4b82925835fa3fddeebd35de865/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5ff1d4b82925835fa3fddeebd35de865/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5a1317dbb410031fe3bbf73d5d0556f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/5a1317dbb410031fe3bbf73d5d0556f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/f9c7e45a6a6ff07779f4e229f14af634/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/f9c7e45a6a6ff07779f4e229f14af634/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/a81a0ba9e12d32a6f2774e73252f193f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/a81a0ba9e12d32a6f2774e73252f193f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/b90f4ce8d4ab8afe0bb10e7978a21308/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/b90f4ce8d4ab8afe0bb10e7978a21308/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0073c58d0c880fa185169b92f94bd5f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0073c58d0c880fa185169b92f94bd5f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/bc0d96797a63d0d418c7c85465b69997/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/bc0d96797a63d0d418c7c85465b69997/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/2348dd91d089938989b4af56d6ab5ad4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/2348dd91d089938989b4af56d6ab5ad4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/797fd6aafab6dab0d70b90b873379400/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/797fd6aafab6dab0d70b90b873379400/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/36de0ff29edbc73dc6da5e9c7c46b2ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/36de0ff29edbc73dc6da5e9c7c46b2ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0b2d4a6c76f226d8b04254bb550f1792/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/0b2d4a6c76f226d8b04254bb550f1792/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/a939f132f159bd89876169f3f7c93df7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/a939f132f159bd89876169f3f7c93df7/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/6b19ce0cc96dd17fa27a7f61d4ddc830/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/alexpro/.gradle/caches/transforms-2/files-2.1/6b19ce0cc96dd17fa27a7f61d4ddc830/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/alexpro/Documents/React-native Gojek/cloning gojek app assets/Gojek/android/app/src/debug/AndroidManifest.xml:5:22-75
