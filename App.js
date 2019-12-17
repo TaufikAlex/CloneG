@@ -160,6 +160,27 @@ export default class App extends Component {
               </View>
             </View>
           </View>
+
+          {/* Internal information  */}
+          <View style={{padding: 16}}>
+            <View style={{height: 15, width: 60, marginLeft: -4}}>
+              <Image source={require('./src/assets/logo/gojek.png')} style={{width: undefined, height: undefined, resizeMode:'contain', flex: 1}} />
+            </View>
+            <Text style={{fontSize: 17, fontWeight: 'bold', color: '#1c1c1c'}}>Complete Your profile</Text>
+          </View>
+          {/* Image  */}
+          <View style={{flexDirection: 'row'}}>
+            <View style={{marginLeft: 16}}>
+              <Image source={require('./src/assets/dummy/facebook-connect.png')} />
+            </View>
+            <View style={{marginLeft: 20, flex: 1}}>
+              <Text style={{fontSize: 15, fontWeight: 'bold', color: '#4A4A4A'}}>Connect With Facebook</Text>
+              <Text style={{fontSize: 15, fontWeight: 'normal', color: '#4A4A4A'}}>Login Faster without vertification code</Text>
+              <TouchableOpacity style={{ backgroundColor: '#61A756', paddingHorizontal: 12, paddingVertical: 12, alignSelf: 'flex-end', borderRadius: 4, marginTop: 10}}>
+              <Text style={{fontSize:13, fontWeight: 'bold', color: 'white', textAlign: 'center'}}>CONNECT</Text>
+             </TouchableOpacity>
+            </View>
+          </View>
         </ScrollView>
 
         {/* Navigation */}
