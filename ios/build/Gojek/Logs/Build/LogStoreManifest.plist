@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>42E4F2F2-C5B2-43C0-BEB0-08F33C676014</key>
+		<key>3E638D91-992B-4356-B632-C40B958FD339</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,13 +15,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>42E4F2F2-C5B2-43C0-BEB0-08F33C676014.xcactivitylog</string>
+			<string>3E638D91-992B-4356-B632-C40B958FD339.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Gojek project</string>
@@ -32,13 +32,47 @@
 			<key>signature</key>
 			<string>Building workspace Gojek with scheme Gojek and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>598240924.63672495</real>
+			<real>598518651.51989305</real>
 			<key>timeStoppedRecording</key>
-			<real>598240926.29843199</real>
+			<real>598518652.28233898</real>
 			<key>title</key>
 			<string>Building workspace Gojek with scheme Gojek and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>42E4F2F2-C5B2-43C0-BEB0-08F33C676014</string>
+			<string>3E638D91-992B-4356-B632-C40B958FD339</string>
+		</dict>
+		<key>759CD0B9-55CE-409A-B868-3F3A279731FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>759CD0B9-55CE-409A-B868-3F3A279731FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gojek project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gojek</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Gojek with scheme Gojek and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>598520577.17470706</real>
+			<key>timeStoppedRecording</key>
+			<real>598520577.94447803</real>
+			<key>title</key>
+			<string>Building workspace Gojek with scheme Gojek and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>759CD0B9-55CE-409A-B868-3F3A279731FB</string>
 		</dict>
 	</dict>
 </dict>

@@ -1,18 +1,7 @@
-import React, { Component } from 'react';
-import {
-    SafeAreaView,
-    StyleSheet,
-    ScrollView,
-    View,
-    Text,
-    StatusBar,
-    Image,
-    TextInput,
-    Platform,
-    TouchableOpacity
-} from 'react-native';
+import React  from 'react';
+import {View,Image,TextInput,Platform} from 'react-native';
 
-const SearchFeature = (props) => {
+const SearchFeature = () => {
     return (
         <View style={Platform.OS === 'ios' ? { marginHorizontal: 17, flexDirection: 'row', paddingTop: 45 } : { marginHorizontal: 17, flexDirection: 'row', paddingTop: 15 }}>
             <View style={{ position: 'relative', flex: 1 }}>
